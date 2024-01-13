@@ -8,9 +8,9 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right"/>
 <br>
 
-- 👋 Hai, I'am Sadam
-- 👨‍🎓 I'am a student of `Informatics Engineering` at [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/).
-- 🏆 Achievements in `game development` and `web development`.
+- 👋 Hai, I'm Sadam
+- 👨‍🎓 I'm a student of `Informatics Engineering` at [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/).
+- 🏆 Achievements in `Game Development` and `Web Development`.
 - 💻 I have interest on `Website Dev`, `Mobile Dev`, and `UI/UX`.
 - 🔥 2024 Goals: Learning new technologies and creating more innovations.
 <br>
